@@ -28,8 +28,6 @@ YOUR_GITHUB_URL: https://github.com/sandeepika17/
 
 # Screenshots
 
-
-
 ## Homepage
 
 (Add screenshot here)
@@ -59,13 +57,10 @@ YOUR_GITHUB_URL: https://github.com/sandeepika17/
 
 # Screen Recording
 
-Loom/YouTube Demo Link:
+YouTube Demo Link: 
 
-PASTE_LINK_HERE
+https://youtu.be/4XKBSpiOq38?si=9oWRYG0P84nB4rHs
 
-(30-second walkthrough recommended)
-
----
 
 # Features
 
@@ -103,7 +98,7 @@ git clone YOUR_GITHUB_URL
 
 ## 2. Install Dependencies
 
-```bash
+bash
 npm install
 ```
 
@@ -113,13 +108,12 @@ npm install
 
 Create:
 
-```txt
+txt
 .env.local
-```
 
 Add:
 
-```env
+env
 NEXT_PUBLIC_SUPABASE_URL=
 
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
@@ -127,7 +121,6 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=
 OPENAI_API_KEY=
 
 RESEND_API_KEY=
-```
 
 ---
 
