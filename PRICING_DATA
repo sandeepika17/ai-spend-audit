@@ -1,0 +1,37 @@
+# Pricing Data
+
+## ChatGPT
+
+| Plan | Monthly Price |
+|------|---------------|
+| Plus | $20 |
+| Team | $30 |
+| Business | $60 |
+
+## Claude
+
+| Plan | Monthly Price |
+|------|---------------|
+| Pro | $20 |
+| Team | $35 |
+
+## GitHub Copilot
+
+| Plan | Monthly Price |
+|------|---------------|
+| Individual | $10 |
+| Business | $19 |
+
+## Cursor
+
+| Plan | Monthly Price |
+|------|---------------|
+| Pro | $20 |
+| Business | $40 |
+
+## Savings Logic
+
+Recommendations are generated using:
+- plan optimization
+- seat utilization
+- team size comparison
